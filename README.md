@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Goatmateuslima/Goatmateuslima/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
