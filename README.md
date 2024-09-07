@@ -1,8 +1,8 @@
-### Hi, welcome to the world 🌍🌎🌎
+### seja bem vindo ao meu mundo🌍🌎🌎
 
-- My name is Mateus
-
-- I'm interested in projects for apps, websites or games
+- meu nome é Mateus.
+- Estudando:  Python
+- Estou interessado em projetos diversos.
 
 
 <!---
