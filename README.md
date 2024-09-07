@@ -1,13 +1,9 @@
 ### Hi, welcome to the world 🌍🌎🌎
 
-- 👋 My name is Mateus
-- 👀 I am interested in working from home on projects for applications, websites or games
-- 🌱 I’m currently learning:
-Python/ SQl/ C#/ CSS/ C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- My name is Mateus
 
-- ⚡ Fun fact: ...
+- I'm interested in projects for apps, websites or games
+
 
 <!---
 GoatMateusLima/GoatMateusLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
