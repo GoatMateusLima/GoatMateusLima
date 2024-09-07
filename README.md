@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goatmateuslima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goatmateuslima&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=noctis_minimus&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GoatMateusLima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GoatMateusLima&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=noctis_minimus&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Goatmateuslima/Goatmateuslima/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GoatMateusLima/GoatMateusLima/output/snake.svg" alt="Snake animation" />
 
 ###
