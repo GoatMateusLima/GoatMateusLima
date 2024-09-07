@@ -1,7 +1,7 @@
 ### seja bem vindo ao meu mundo🌍🌎🌎
 
 - meu nome é Mateus.
-- Estudando:  Python
+- Estudando:  Python 🐍
 - Estou interessado em projetos diversos.
 
 
