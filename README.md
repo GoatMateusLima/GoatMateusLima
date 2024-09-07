@@ -41,6 +41,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GoatMateusLima/GoatMateusLima/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/GoatMateusLima/GoatMateusLima/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GoatMateusLima&repo=GoatMateusLima&theme=react)](https://github.com/GoatMateusLima/GoatMateuslima)
 
 ###
