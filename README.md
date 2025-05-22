@@ -1,27 +1,38 @@
-<h1 align="left">Hello my name is Mateus Lima Bispo</h1>
+# Hello 👋 I am Mateus Lima BIspo
 
-###
+## Desenvolvedor web Front-End
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk0Y2RweXdvNjBjMzA0N2NobThyaDNxbDhuYWlkbnF4cHYzcmkzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp"  />
+Eu sou estudante de DS
 
-###
+- 🌍 I'm from Brasil
+- 🌱 I'm currently learning HTML, CSS, JS
+- ⚡ Fun fact about me: Eu sou rato de academia e isso significa que tenho saude e voçe não(apenas um desabafo).
 
-<div align="left">
-  <a href="https://discord.com/users/723551016045248623" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mateus-lima-bispo-b14a222a8/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+### Skills
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  
-</div>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
+</picture></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
+</picture></a> &nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
+</picture></a> &nbsp;
+
+### Social
+
+<a href="https://www.github.com/GoatMateusLima" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
+</picture>
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/mateus-lima-bispo-b14a222a8" target="_blank" rel="noreferrer">
+<picture>
+<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
+</picture>
+</a> &nbsp;
 
 ###
 
