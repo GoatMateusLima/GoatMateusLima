@@ -6,7 +6,7 @@ Eu sou estudante de DS
 
 - 🌍 I'm from Brasil
 - 🌱 I'm currently learning HTML, CSS, JS
-- ⚡ Fun fact about me: Eu sou rato de academia e isso significa que tenho saude e voçe não(apenas um desabafo).
+- ⚡ Fun fact about me: Eu sou rato de academia e isso significa que tenho saude e voce não(apenas um desabafo).
 
 
 ### Skills
