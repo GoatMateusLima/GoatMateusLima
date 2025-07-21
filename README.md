@@ -35,7 +35,7 @@ Eu sou estudante de DS
 </a> &nbsp;
 
 ###
-<div>
+<div display:flex; align-items:center;>
   <p align="left">DADOS:</p>
 
 ###
