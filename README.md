@@ -35,7 +35,7 @@ Eu sou estudante de DS
 </a> &nbsp;
 
 ###
-<div justify-content: center;>
+<div style="display:flex; justify-content: center; align-items:center;">
   <p align="left">DADOS:</p>
 
 ###
