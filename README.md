@@ -5,7 +5,7 @@
     <td valign="top" width="50%">
 
 ### 🇺🇸 Hello  
-**Front-End Web Developer**  
+**Full Stack Developer | building Java, React and PostgreSQL**  
 I’m a Software Development student passionate about building clean and functional interfaces.  
 Currently learning **HTML, CSS, and JavaScript** to create modern and responsive projects.
 
@@ -17,12 +17,12 @@ Currently learning **HTML, CSS, and JavaScript** to create modern and responsive
 <td valign="top" width="50%">
 
 ### 🇧🇷 Olá  
-**Desenvolvedor Web Front-End**  
+**Desenvolvedor Full Stack | Desenvolvendo em Java, React e PostgreSQL**  
 Sou estudante de Desenvolvimento de Sistemas e apaixonado por criar interfaces limpas e funcionais.  
 Atualmente aprendendo **HTML, CSS e JavaScript** para construir projetos modernos e responsivos.
 
 - 🌍 De: Brasil  
-- 🌱 Focado em melhorar meu portfólio  
+- 🌱   
 - ⚡ Apaixonado por neurociência, evolução humana e programação
 
 </td>
