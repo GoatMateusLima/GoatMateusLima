@@ -44,39 +44,37 @@ Atualmente aprendendo **Java,Spring Boot, Docker** para entrar em empresas com a
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-Docker	![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Composer](https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker--compose-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![railwal]
+![Railway](https://img.shields.io/badge/railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## 🌐 Projetos em Destaque
@@ -87,46 +85,41 @@ Docker	![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>◈ &nbsp;APIpromu</h3>
-      <sup><a href="https://e.commerce.cardosofiles.com.br/">Repositorio ↗</a></sup>
+      <sup><a href="https://github.com/GoatMateusLima">Repositório ↗</a></sup>
       <br/><br/>
-      API com 4 endpoints e banco de dados que apaga seus itens apos 24h, mantendo uma API fluida e rapida que atualiza sues dados diariamente, nesse caso a API foi criada para recoemndar pfertas de forma manual e automatica usando uma API segundaria de algum marketplace.
+      API que automatiza o envio de ofertas da Amazon para um grupo no Telegram, salvando cada produto por 24h no banco de dados antes de limpar o registro.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white" />
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
-      <h3>◈ &nbsp;CoreFlow Pilates</h3>
-      <sup><a href="https://estudio.cardosofiles.com.br/">estudio.cardosofiles.com.br ↗</a></sup>
+      <h3>◈ &nbsp;UpJobs</h3>
+      <sup><a href="https://github.com/GoatMateusLima">Repositório ↗</a></sup>
       <br/><br/>
-      Plataforma de gestão para estúdio de Pilates com agendamento, controle de alunos e painel administrativo intuitivo.
+      Plataforma de transição de carreira com gamificação, chatbot via Groq e recomendação de vagas via JSearch. Modelei as tabelas de cursos, usuários e progressão, e desenvolvi as telas de home, perfil e chat.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
-      <h3>◈ &nbsp;Cardosofiles Portfolio</h3>
-      <sup><a href="https://www.cardosofiles.com.br/pt">cardosofiles.com.br ↗</a></sup>
+      <h3>◈ &nbsp;Aumigos</h3>
+      <sup><a href="https://github.com/GoatMateusLima">Repositório ↗</a></sup>
       <br/><br/>
-      Design system próprio, otimização para Core Web Vitals (Lighthouse 100), SEO e acessibilidade como prioridade desde o início.
+      Site que reúne ONGs de animais em um único lugar. Desenvolvi o frontend e o backend completos, com validação de CNPJ via API Brasil e banco PostgreSQL no Supabase.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
-      <h3>◈ &nbsp;Customer Management</h3>
-      <sup><a href="https://github.com/Cardosofiles/customer-management-web">github.com ↗</a></sup>
-      <br/><br/>
-      MVP fullstack de gerenciamento de clientes com autenticação, CRUD completo, ORM e containerização via Docker.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <!-- slot livre para próximo projeto -->
     </td>
   </tr>
 </table>
