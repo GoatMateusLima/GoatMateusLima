@@ -13,7 +13,7 @@
   </tr>
 </table>
 <br/>
-## 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
@@ -28,7 +28,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀CONHECIMENTOS TÉCNICOS
-<br/>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
