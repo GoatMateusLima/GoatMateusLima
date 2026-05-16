@@ -22,8 +22,16 @@
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/GoatMateusLima/GoatMateusLima/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
 </div>
+
+## &nbsp;Formação
+
+- **Análise e Desenvolvimento de Sistemas** — UNICEP _(em andamento)_
+- **SENAC – Serasa Experian e Gerando Falcões** — Transforme-se _(14/04/2026)_
+- **Etec Paulino Botelho filho** — Desenvolvimento de Sistemas _(17/12/2025)_
+
+**Foco atual →** JAVA · Spring · Maven · Docker · API Rest
+
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
