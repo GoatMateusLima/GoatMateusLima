@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=18&duration=4000&pause=1200&color=6E7681&center=true&vCenter=true&width=480&lines=Mateus+Lima+Bispo;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=18&duration=4000&pause=1200&color=6E7681&center=true&vCenter=true&width=480&lines=Mateus+Lima+Bispo;Back-End+Developer" alt="Typing SVG" />
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="middle" style="padding: 12px">
-      Sou desenvolvedor full-stack/Back-end e atualmente curso Análise e Desenvolvimento de Sistemas na UNICEP. Meu maior objetivo na carreira como full-stack/Back-end é atuar em produtos que atendem muitos usuários, fintechs e big techs são meu alvo.
+      Sou desenvolvedor Back-end e atualmente curso Análise e Desenvolvimento de Sistemas na UNICEP. Meu maior objetivo na carreira como Desenvolvedor é atuar em produtos que atendem altas demandas.
     </td>
     <td width="50%" valign="middle" align="center" style="padding: 12px">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
