@@ -84,7 +84,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>◈ &nbsp;APIpromu</h3>
-      <sup><a href="https://github.com/GoatMateusLima">Repositório ↗</a></sup>
+      <sup><a href="https://github.com/GoatMateusLima/APIpromu">Repositório ↗</a></sup>
       <br/><br/>
       API que automatiza o envio de ofertas da Amazon para um grupo no Telegram, salvando cada produto por 24h no banco de dados antes de limpar o registro.
       <br/><br/>
