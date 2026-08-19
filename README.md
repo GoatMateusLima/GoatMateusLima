@@ -96,7 +96,7 @@
     </td>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>◈ &nbsp;UpJobs</h3>
-      <sup><a href="https://github.com/GoatMateusLima">Repositório ↗</a></sup>
+      <sup><a href="https://github.com/GoatMateusLima/pixel-perfect-clone">Repositório ↗</a></sup>
       <br/><br/>
       Plataforma de transição de carreira com gamificação, chatbot via Groq e recomendação de vagas via JSearch. Modelei as tabelas de cursos, usuários e progressão, e desenvolvi as telas de home, perfil e chat.
       <br/><br/>
@@ -110,7 +110,7 @@
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>◈ &nbsp;Aumigos</h3>
-      <sup><a href="https://github.com/GoatMateusLima">Repositório ↗</a></sup>
+      <sup><a href="https://github.com/GoatMateusLima/TCC_3-DS-ETEC">Repositório ↗</a></sup>
       <br/><br/>
       Site que reúne ONGs de animais em um único lugar. Desenvolvi o frontend e o backend completos, com validação de CNPJ via API Brasil e banco PostgreSQL no Supabase.
       <br/><br/>
