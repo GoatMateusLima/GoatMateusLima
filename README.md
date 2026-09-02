@@ -5,7 +5,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="middle" style="padding: 12px">
-      Sou desenvolvedor Back-end e atualmente curso Análise e Desenvolvimento de Sistemas na UNICEP. Meu maior objetivo na carreira como Desenvolvedor é atuar em produtos que atendem altas demandas.
+      Sou desenvolvedor Full-Stack e atualmente curso Análise e Desenvolvimento de Sistemas na UNICEP. Meu maior objetivo na carreira como Desenvolvedor é atuar em produtos que atendem altas demandas.
     </td>
     <td width="50%" valign="middle" align="center" style="padding: 12px">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
@@ -30,7 +30,7 @@
 - **SENAC – Serasa Experian e Gerando Falcões** — Transforme-se _(14/04/2026)_
 - **Etec Paulino Botelho filho** — Desenvolvimento de Sistemas _(17/12/2025)_
 
-**Foco atual →** JAVA · Spring · Maven · Docker · API Rest
+**Foco atual →** JAVA · Spring · Maven · Docker
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
